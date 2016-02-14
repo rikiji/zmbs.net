@@ -1,0 +1,6 @@
+---
+layout: post
+title: a mtg blog
+published: true
+---
+Here is where I dump my tournament reports.

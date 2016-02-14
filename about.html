@@ -1,0 +1,23 @@
+---
+layout: default
+title: about
+---
+
+<div class="top">
+  <h2>about</h2>
+</div>
+
+<div class="post about">
+  <img class="pic" src="http://{{ site.domain }}/images/me4.jpg">
+  <blockquote>{% include intro.markdown %}</blockquote>
+
+  {% capture about_content %}
+  {% include about.markdown %}
+  {% endcapture %}
+  {{ about_content | markdownify }}
+
+</div>
+
+<div class="bottom">
+  <p class="eof">EOF</p>	  
+</div>

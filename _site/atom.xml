@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>localhost:4000</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2016-02-14T21:35:17+01:00</updated>
+ <id>http://localhost:4000/</id>
+
+ 
+ <entry>
+   <title>a mtg blog</title>
+   <link href="http://localhost:4000/2016/02/14/a-mtg-blog.html"/>
+   <updated>2016-02-14T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2016/02/14/a-mtg-blog</id>
+   <content type="html">&lt;p&gt;Here is where I dump my tournament reports.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
