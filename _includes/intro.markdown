@@ -1,1 +1,1 @@
-I am Riccardo, I play Limited and Modern in the area around Zurich, Switzerland.
+I play Modern and Limited in the area around Zurich, Switzerland.
