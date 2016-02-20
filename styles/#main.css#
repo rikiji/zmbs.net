@@ -6,20 +6,6 @@
     font-style: normal
 }
 @font-face {
-    font-family: Amaranth;
-    src: url(/font/Amaranth-webfont.eot);
-    src: url(/font/Amaranth-webfont.eot?#iefix) format("embedded-opentype"), url(/font/Amaranth-webfont.woff) format("woff"), url(/font/Amaranth-webfont.ttf) format("truetype"), url(/font/Amaranth-webfont.svg#AmaranthRegular) format("svg");
-    font-weight: 400;
-    font-style: normal
-}
-@font-face {
-    font-family: Amaranth;
-    src: url(/font/Amaranth-Bold-webfont.eot);
-    src: url(/font/Amaranth-Bold-webfont.eot?#iefix) format("embedded-opentype"), url(/font/Amaranth-Bold-webfont.woff) format("woff"), url(/font/Amaranth-Bold-webfont.ttf) format("truetype"), url(/font/Amaranth-Bold-webfont.svg#AmaranthBold) format("svg");
-    font-weight: 700;
-    font-style: normal
-}
-@font-face {
     font-family: Maven;
     src: url(/font/maven/maven_pro_black-webfont.eot);
     src: url(/font/maven/maven_pro_black-webfont.eot?#iefix) format("eot"), url(/font/maven/maven_pro_black-webfont.woff) format("woff"), url(/font/maven/maven_pro_black-webfont.ttf) format("truetype"), url(/font/maven/maven_pro_black-webfont.svg#webfontXhB2DgBK) format("svg");
@@ -6231,7 +6217,7 @@ ul.icons li [class*=" icon-"] {
 .icon-circle:before {
     content: "\f111"
 }
-.icon-reply:before {
+.icon-reply:before { 
     content: "\f112"
 }
 .icon-github-alt:before {
@@ -6301,12 +6287,13 @@ body {
 }
 a,
 a:visited {
-    color: #1f1f1f;
-    text-decoration: underline
+    color: #08c;
+    font-weight: 400;
+    text-decoration: none
 }
 a:active,
 a:hover {
-    text-decoration: none;
+    text-decoration: underline;
     color: #5BC0DE
 }
 .sidebar-nav {
@@ -6405,11 +6392,18 @@ a:hover {
 }
 .top,
 .post,
-.bottom {
-    font-family: Maven;
-    font-weight: 400;
+.bottom,
+.about {
+    font-family: 'Roboto';
+    font-weight: 300;
     font-size: 20px;
-    line-height: 22px
+    line-height: 1.6em
+}
+.post {
+    max-width: 800px;
+    text-align: justify;
+    text-justify: inter-word;
+}
 }
 .top {
     margin-bottom: 12px
@@ -6419,7 +6413,7 @@ a:hover {
     font-size: 28px;
     line-height: 28px;
     font-weight: 400;
-    margin: 0;
+    margin: 0 0 24px;
     padding: 0
 }
 .top h3 {

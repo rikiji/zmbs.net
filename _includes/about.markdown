@@ -1,8 +1,8 @@
 This blog is is where I dump my [mtg](http://magic.wizards.com/) tournament reports. I like to think I play semi-competitively.
 
-Drop me an <a class="mail" href="mailto:rikiji foo rikiji dot it">email</a> if you want to get in touch.
+Drop me an <a class="mail" href="mailto:rikiji foo rikiji dot it">email</a> or follow me on twitter: <a href="https://twitter.com/rikiji" class="twitter-follow-button" data-show-count="false">@rikiji</a>
 
-.
+&nbsp;
 
     -----BEGIN PGP PUBLIC KEY BLOCK-----
     Version: GnuPG v1.4.10 (GNU/Linux)
