@@ -74,8 +74,8 @@ I played versus my teammate, we played so many test games against each other tha
 
 What I have learned:
 
-- Read every card, twice.
-- With the new mulligan rules the first one is almost for free, take it whenever you don't feel having an explosive hand.
-- I have to review how many sideboard slots I dedicate to the mirror match as well as what to board out because losing mirrors sucks.
+> Read every card, twice.
 
-In general unsatisfying results but a very good training for GP Bologna, which will take place in two weeks.
+> With the new mulligan rules the first one is almost for free, take it whenever you don't feel having an explosive hand.
+
+I also have to review how many sideboard slots I dedicate to the mirror match as well as what to board out because losing mirrors sucks. In general unsatisfying results but a very good training for GP Bologna, which will take place in two weeks.
