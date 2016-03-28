@@ -42,7 +42,7 @@ Sideboard
 ## Round 1 GR Eldrazi &bull; 2-0
 
 I played versus a good local player, I remembered seeing him on a Twitch stream of a Modern tournament in Milan on the previous weekend playing RG Eldrazi so I mulliganed for an aggressive hand. He was indeed playing that and I closed the first game simply winning the damage race. 
-Game 2 he did not see any sideboard card but he had a bursty hand which allowed him to resolve a [Reality Smasher](card:Reality Smasher) and then a [World Breaker](card:World Breaker) on early turns. I won the game though because of having more flyers he could not block. I remember that on the last turn I could have lost only to double [Gutshot](card:Gutshot) or a single one if I stacked triggers incorrectly, so I played around that too.
+Game 2 he did not see any sideboard card but he had a bursty hand which allowed him to resolve a [Reality Smasher](card:Reality Smasher) and then a [World Breaker](card:World Breaker) on early turns. I won the game though because of having more flyers he could not block. I remember that on the last turn I could have lost only to double [Gut Shot](card:Gut Shot) or a single one if I stacked triggers incorrectly, so I played around that too.
 
 > 1-0
 
@@ -54,13 +54,13 @@ I lost the first game because I did not remember that the creatures spawned by [
 
 ## Round 3 Jund &bull; 1-2
 
-I won the first game with a standard hand thanks to raw speed. On the second game I had a decent hand but without much resilience, it was a very grindy game where I brought him down to 3, with a [Dark Confidant](card:Dark Confidant) in play, faced a [Shatterstorm](card:Shattershort) after which the Dark Confidant drew him 2-3 lands in a row. He ended up [terminating](card:Terminate) it to survive and then killing me. On the third game I mulliganed down to 5, brought him very low on life nevertheless but then once the new [vampire with lifelink](card:Kalitas, Traitor of Ghet) hit the table I had no way to keep up with it. The guy ended up winning the tournament.
+I won the first game with a standard hand thanks to raw speed. On the second game I had a decent hand but without much resilience, it was a very grindy game where I brought him down to 3, with a [Dark Confidant](card:Dark Confidant) in play, faced a [Shatterstorm](card:Shatterstorm) after which the Dark Confidant drew him 2-3 lands in a row. He ended up [terminating](card:Terminate) it to survive and then killing me. On the third game I mulliganed down to 5, brought him very low on life nevertheless but then once the new [vampire with lifelink](card:Kalitas, Traitor of Ghet) hit the table I had no way to keep up with it. The guy ended up winning the tournament.
 
 > 1-2
 
 ## Round 4 Affinity &bull; 0-2
 
-Another mirror match, he had busted hands on both games while I was simply slower. I probably should have mulliganed harder in retrospect, but he opened with two [moxes](card:Mox Opal) in game 1 and he had an aether grid before I did in game 2, so I could not have done much anyway. This game led me to increase the number of aether grids in the sideboard to 2 for the next tournament. After the game he showed me what he sided in which made absolutely no sense to me because he diluted his deck too much (two thoughtseize, a stubborn denial and 4-5 more colored cards). After looking at his sideboard strategy I was a bit disappointed I lost this match.
+Another mirror match, he had busted hands on both games while I was simply slower. I probably should have mulliganed harder in retrospect, but he opened with two [moxes](card:Mox Opal) in game 1 and he had an aether grid before I did in game 2, so I could not have done much anyway. This game led me to increase the number of aether grids in the sideboard to 2 for the next tournament. After the game he showed me what he sided in which made absolutely no sense to me because he diluted his deck too much (two [Thoughtseize](card:Thoughtseize), a [Stubborn Denial](card:Stubborn Denial) and 4-5 more colored cards). After looking at his sideboard strategy I was a bit disappointed I lost this match.
 
 > 1-3
 
