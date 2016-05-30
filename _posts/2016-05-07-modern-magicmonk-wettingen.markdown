@@ -6,8 +6,8 @@ published: true
 I won a sweet foil [Tarmogoyf](card:Tarmogoyf) at a 24-players Modern event in Wettingen.
 
 My [list](http://magicmonk.ch/WebRoot/Store/Shops/170349/MediaGallery/Decklisten/Modern_07052016/Modern_07052016_Riccardo_Cecolin.pdf)
-differed from the previous ones I played mostly for the two [Etched Champions](card:Etched Champion)
-that made it back into the main deck and for the 2nd [Galvanic Blast](card:Galvanic Blast) that I added for extra explosiveness in an unknown (to me) meta.
+differed from the previous one for the two [Etched Champions](card:Etched Champion)
+that made it back into the main deck once Eldrazi winter was over and for the 2nd [Galvanic Blast](card:Galvanic Blast) that I added for extra explosiveness in an unknown (to me) meta.
 
 Results and decklists are up on the store [website](http://magicmonk.ch/epages/170349.sf/de_CH/?ObjectPath=/Shops/170349/Categories/Events/Constructed_Modern/Standings/Modern_07052016).
 
