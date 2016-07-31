@@ -4,7 +4,10 @@ title: Gifts & Nail Modern Primer
 published: true
 ---
 
-I am proud to present my Modern brew, a deck that uses the mana engine of the old extended [Heartbeat Desire](http://mtgtop8.com/event?e=9218&d=252854&f=EX) deck to somewhat reliably cast a turn four [Tooth and Nail(card:Tooth and Nail). 
+I am proud to present my Modern brew, a deck that uses the mana engine of the old extended [Heartbeat Desire](http://mtgtop8.com/event?e=9218&d=252854&f=EX) deck to somewhat reliably cast a turn four [Tooth and Nail](card:Tooth and Nail). 
+
+The game plan consists in ramping turns 1-3 while digging for the missing pieces of the combo. Ideally a turn 4 [Gifts](card:Gifts Ungiven) allows to setup a turn 4 Tooth and Nail. The creature pack used to win the game consist in [Emrakul](card:Emrakul, the Aeons Torn) and [Xenagos](card:Xenagos, God of Revels), that should be a very hard combination to disrupt, being one not targetable by spells and the other one an indestructible enchantment.
+A hasted flying 30/30 with annihilator 6 usually guarantees and immediate win. Additonally Modern meta is not exactly counter heavy now, and there are several cards included that let you cast a Tooth and Nail card more than once grabbing it back from the graveyard.
 
 ```
 Main
@@ -40,9 +43,6 @@ Sideboard (stub)
 1 Peer Through Depths
 1 Emrakul, The Promised End
 ```
-
-The game plan consists in ramping turns 1-3 while digging for the missing pieces of the combo. Ideally a turn 4 [Gifts](card:Gifts Ungiven) allows to setup a turn 4 Tooth and Nail. The creature pack used to win the game consist in [Emrakul](card:Emrakul, the Aeons Torn) and [Xenagos](card:Xenagos, God of Revels), that should be a very hard combination to disrupt, being one not targetable by spells and the other one an indestructible enchantment.
-A hasted flying 30/30 with annihilator 6 usually guarantees and immediate win. Additonally Modern meta is not exactly counter heavy now, and there are several cards included that let you cast a Tooth and Nail card more than once grabbing it back from the graveyard.
 
 Any of the following combinations allows you to cast Tooth and Nail:
 
