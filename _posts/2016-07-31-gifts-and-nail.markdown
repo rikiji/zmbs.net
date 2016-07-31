@@ -44,33 +44,31 @@ Sideboard (stub)
 1 Emrakul, The Promised End
 ```
 
-Any of the following combinations allows you to cast Tooth and Nail:
+Any of the following scenarios allows you to cast Tooth and Nail:
 
-> A: 5 lands in play, Tooth and Nail, Early Harvest, Heartbeat of Spring in hand.
-
-> B: 5 lands in play, Tooth and Nail, Early Harvest, Early Harvest in hand.
-
-> C: lands in play, Tooth and Nail, Early Harvest in hand.
+1. 5 lands in play, Tooth and Nail, Early Harvest, Heartbeat of Spring in hand.
+2. 5 lands in play, Tooth and Nail, Early Harvest, Early Harvest in hand.
+3. 6 lands in play, Tooth and Nail, Early Harvest in hand.
 
 Possible sequences to get to one of them on the 4th turn:
 
 ```
 T1 Search for Tomorrow
-T2 card selection to find Gifts 
-T3 Gifts
-T4 A or B
+T2 Card selection to find Gifts, Hearthbeat, Early Harvest, Tooth and Nail
+T3 Gifts for missing pieces
+T4 Scenario 1 or 2
 ```
 
 ```
 T2 Sakura/Rampant Growth
 T3 Gifts/card selection
-T4 A or B
+T4 Scenario 1 or 2
 ```
 
 ```
 T2 Sakura/Rampant Growth
 T3 Sakura/Rampant Growth
-T4 C
+T4 Scenario 3
 ```
 
 The deck can win on the third turn with an optimal combination of cards:
@@ -78,23 +76,38 @@ The deck can win on the third turn with an optimal combination of cards:
 ```
 T1 Search for Tomorrow
 T2 Sakura/Rampant Growth
-T3 combination A from above
+T3 Scenario 1
 ```
 
-Results until now: 
+Gifts packages really depend on how many lands you will have in play on the next turn and which pieces you have in hand. Remember that your opponent does not know which cards are in your hand, so if you have already Tooth and Nail in hand and you really need to go off the next turn but need two more pieces, you can try trick him into giving what you need directly in the hand by grabbing:
 
-## MTGO Modern League
-Bogles: 2-1
-Jeskai Nahiri: 2-0
-Jeskai Nahiri: 2-1
-Burn: 1-2
-Suicide Zoo: 2-0
+> Tooth and Nail, Heartbeat of Spring, Early Harvest, Noxious Revival
+
+You opponent will give you Noxious Revival + another card, which if is not Tooth and Nail means you can go off. Other times you will simply want a land because you have already 5 in play and have Tooth and Nail and Early Harvest in hand, in that case a Gift loaded of goodies will ensure that you opponent gives you a land in hand. Depending on the three scenarios described above other typical packages to grab are:
+
+* Tooth and Nail, [Early Harvest](card:Early Harvest), [Revive](card:Revive), [Noxiouss Revival](card:Noxious Revival)
+* Tooth and Nail, [Heartbeat of Spring](card:Heartbeat of Spring), Revive, Noxious Revival
+* Heartbeat of Spring, Early Harvest, Revive, Noxious Revival
+* Early Harvest, Revive, [Mystic Retrieval](card:Mystic Retrieval), [Noxious Revival](card:Noxious Revival)
+
+The deck has no real sideboard yet, that’s something that can have a large positive impact as I usually always won game 1 and struggled a bit more in the second/third. Also it is not yet clear whether to play 8 or 10 ramping spells.
+
+## Results
+
+### MTGO Modern League
+
+* Bogles: 2-1
+* Jeskai Nahiri: 2-0
+* Jeskai Nahiri: 2-1
+* Burn: 1-2
+* Suicide Zoo: 2-0
 
 > 4-1
 
-## FNM Modern
-UB Aggro/Mill: 0-2 (seriously...)
-Kiki Chord: 1-2
-Kiki-Chord: 2-0
+### FNM Modern
 
-The deck has no sideboard, that’s something that can have a large positive impact as I usually always won game 1 and struggled a bit more in the second/third. Also it is not yet clear whether to play 8 or 10 ramping spells.
+* UB Aggro/Mill: 0-2 (seriously...)
+* Kiki Chord: 1-2
+* Kiki-Chord: 2-0
+
+> 1-2
