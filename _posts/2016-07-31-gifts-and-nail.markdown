@@ -46,9 +46,11 @@ Sideboard (stub)
 
 Any of the following combinations allows you to cast Tooth and Nail:
 
-A. 5 lands in play, Tooth and Nail, Early Harvest, Heartbeat of Spring in hand.
-B. 5 lands in play, Tooth and Nail, Early Harvest, Early Harvest in hand.
-C. 6 lands in play, Tooth and Nail, Early Harvest in hand.
+> A: 5 lands in play, Tooth and Nail, Early Harvest, Heartbeat of Spring in hand.
+
+> B: 5 lands in play, Tooth and Nail, Early Harvest, Early Harvest in hand.
+
+> C: lands in play, Tooth and Nail, Early Harvest in hand.
 
 Possible sequences to get to one of them on the 4th turn:
 
