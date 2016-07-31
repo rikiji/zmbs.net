@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gifts & Nail Modern Primer
+title: Modern Gifts & Nail Primer
 published: true
 ---
 
