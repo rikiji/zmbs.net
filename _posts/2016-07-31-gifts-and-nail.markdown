@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gifts & Nail" Modern Primer
+title: Gifts & Nail Modern Primer
 published: true
 ---
 
