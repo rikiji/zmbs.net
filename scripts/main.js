@@ -6,7 +6,7 @@ $(document).ready(function(){
     $('a').each(function(){
 	var link = $(this).attr("href");
 	if (link.lastIndexOf("card:", 0) === 0) {
-	    var card = encodeURIComponent(link.slice(5));
+	    var card = encodeURIComponent(link.length === 5 ? $(this).text() : link.slice(5));
 	    $(this).attr("href","http://magiccards.info/query?q="+card);
 	    $(this).attr("target","_blank");
 	    $(this).hover(function(){
