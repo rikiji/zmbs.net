@@ -676,7 +676,7 @@ ol ul {
     margin-bottom: 0
 }
 li {
-    line-height: 20px
+    line-height: 32px
 }
 ul.unstyled,
 ol.unstyled {
@@ -750,7 +750,7 @@ abbr.initialism {
 }
 blockquote {
     padding: 0 0 0 15px;
-    margin: 0 0 20px;
+    margin: 20px 0;
     border-left: 5px solid #eee
 }
 blockquote p {
