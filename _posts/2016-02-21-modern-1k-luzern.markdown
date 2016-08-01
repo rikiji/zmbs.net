@@ -5,7 +5,7 @@ published: true
 ---
 30 people registered for 5 rounds of swiss and a prizepool of 1k CHF. My 75:
 
-```
+~~~
 Main
 ====
 4 Arcbound Ravager
@@ -37,7 +37,7 @@ Sideboard
 2 Stubborn Denial
 2 Thoughtseize
 2 Whipflare
-```
+~~~
 
 ## Round 1 GR Eldrazi &bull; 2-0
 

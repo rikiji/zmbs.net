@@ -6,7 +6,7 @@ published: true
 My report for GP Bologna, the amount details I could remember for each match varies a lot as I wrote this down a while after the tournament was over.
 The list I registered differs from the one I played in Luzern by a couple cards main deck to make it more explosive, the sideboard also has more answers for the mirror match and Eldrazis.
 
-```
+~~~
 Main
 ====
 -1 x Thoughtcast
@@ -21,7 +21,7 @@ Side
 +1 x  Ensnaring Bridge
 +1 x Ghirapur AEther Grid
 +1 x Spellskite
-```
+~~~
 
 2200 players showed up, biggest Magic event ever organized in Italy. I had no byes so I had to start from Round 1.
 

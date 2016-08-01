@@ -5,7 +5,7 @@ published: true
 ---
 The banhammer hadn’t hit yet, so I played the exact 75 I did in Bologna:
 
-```
+~~~
 Main
 ====
 4 Arcbound Ravager
@@ -41,7 +41,7 @@ Sideboard
 1 Whipflare
 1 Ensnaring Bridge
 1 Spellskite
-```
+~~~
 
 The FNM was very small, just 8 players. The LGS owner decided for 3 rounds + Top 4 to let people play a bit more.
 
