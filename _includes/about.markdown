@@ -1,6 +1,6 @@
 This blog is where I dump my [mtg](http://magic.wizards.com/) tournament reports. I like to think I play semi-competitively.
 
-Check my main [website](http://rikiji.it), drop me an <a class="mail" href="mailto:rikiji foo rikiji dot it">email</a> or follow me on twitter: <a href="https://twitter.com/rikiji" class="twitter-follow-button" data-show-count="false">@rikiji</a>
+Check my main [website](http://rikiji.it), or drop me an <a class="mail" href="mailto:rikiji foo rikiji dot it">email</a>.
 
 &nbsp;
 

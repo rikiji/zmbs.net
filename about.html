@@ -9,7 +9,10 @@ title: about
 
 <div class="about">
   <img class="pic" src="http://{{ site.domain }}/images/me4.jpg">
-  <blockquote>{% include intro.markdown %}</blockquote>
+  {% capture intro_content %}
+  {% include intro.markdown %}
+  {% endcapture %}
+  <blockquote>{{ intro_content | markdownify }}</blockquote>
 
   {% capture about_content %}
   {% include about.markdown %}

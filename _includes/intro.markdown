@@ -1,1 +1,1 @@
-I play Modern and Limited in the area around Zurich, Switzerland.
+I play Modern and Limited in the area around Zurich, Switzerland. My MTGO username is: `ioctl`.
