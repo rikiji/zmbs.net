@@ -1,6 +1,0 @@
----
-layout: post
-title: A Magic the Gathering blog
-published: true
----
-Congratulations, you just found where I dump my mtg tournament reports and pics of my draft pools.
