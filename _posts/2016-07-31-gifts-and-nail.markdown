@@ -102,27 +102,3 @@ You opponent will give you Noxious Revival + another card, which if is not Tooth
 * Tooth and Nail, Revive, [Mystic Retrieval](card:Mystic Retrieval), [Noxious Revival](card:Noxious Revival)
 
 The deck has no real sideboard yet, that’s something that can have a large positive impact as in my test games I often won game 1 while struggling a bit more in the second/third because of hate cards ([Rule of Law](card:), [Rest in Peace](card:)). I considered a trasformational sideboard that removes anything that interacts with the graveyard but it feels a bit too random. Also it is not yet clear whether to play 8 or 10 ramping spells, on game 2 and 3 I tend to go down to 8 to make room for pyroclasms or more card recovery/selection, depending on the matchup.
-
-## Results
-
-### MTGO Modern League
-
-* Bogles: 2-1
-* Jeskai Nahiri: 2-0
-* Jeskai Nahiri: 2-1
-* Burn: 1-2
-* Suicide Zoo: 2-0
-
-> 4-1
-
-### FNM Modern
-
-* UB Aggro/Mill: 0-2 (seriously...)
-* Kiki Chord: 1-2
-* Kiki-Chord with Nahiri: 2-0
-
-> 1-2
-
-### MTGO
-
-* An example of how the deck plays vs decks with permission, on [YouTube](http://www.youtube.com/watch?v=dDPrvfArnyY "Modern Gifts and Nail vs UW control")
